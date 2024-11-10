@@ -1,0 +1,14 @@
+<html>
+<body>
+<form>
+<table>
+<tr>
+<td>Number1</td>
+<td> <input type="text" name=text"></td>
+</tr>
+</tr>
+</table>
+</form>
+</body>
+</html>
+
